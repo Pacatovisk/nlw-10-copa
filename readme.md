@@ -37,7 +37,7 @@ O Calendário da Copa é um projeto que mostra os jogos da Copa de 2022.
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/4lIPlMULiLcjlZfQqyOhKw/Calend%C3%A1rio-de-Jogos-(Community)?node-id=0%3A1). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
-Projeto publicado [NESSE LINK] (https://pacatovisk.github.io/nlw-10-copa/).
+Projeto publicado [DESSE LINK](https://pacatovisk.github.io/nlw-10-copa/).
 
 ## :memo: Licença
 
